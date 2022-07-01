@@ -15,8 +15,8 @@ Konunun temel noktası olan JUnit ise bu noktada Birim Testini gerçekleştirmek
 ## Birim Testi (Unit Testing)
 
 Birim Test sırasında kodun çıktısının koşulların karşılanmasında beklendiği gibi olduğunu doğrulamak için küçük bir mantığın veya bir kodun test edilmesidir.
-Birim Test sırasında her parça diğer parçalardan bağımsız olarak test edilir.
-Birim Testi sayesinde sistemdeki hatalar daha ilk aşamada ortaya çıkartılır.
+<br/>Birim Test sırasında her parça diğer parçalardan bağımsız olarak test edilir.
+<br/>Birim Testi sayesinde sistemdeki hatalar daha ilk aşamada ortaya çıkartılır.
 
 # References
 
